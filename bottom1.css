@@ -1,0 +1,38 @@
+
+#bottom1{
+    width: 100vw;
+    height: 70vh;
+    margin-top: 20px;
+   color: whitesmoke;
+   background-color: black;
+   padding-top: 70px;
+
+      
+}
+#grid{
+    margin-top: 20px;
+display:grid;
+grid-template-rows: 50px 50px 50px 50px;
+ grid-template-columns: 20% 20% 20% 20%;
+ 
+
+}
+u{
+    padding-left: 40%;
+}
+p2{
+    padding-left: 8%;
+    font-size: 20px;
+    color: whitesmoke;
+    
+}
+#bot2{
+ margin-left: 8%;
+ background-color: black;
+ color: whitesmoke;
+}
+#p3{
+    padding-left: 8%;
+    
+
+}
